@@ -1,0 +1,26 @@
+[
+  {
+    "id": "SYN-001",
+    "text": "We need an AI chatbot for our online store to answer common customer questions. We want to launch in four weeks and it should use our existing product catalog and FAQ.",
+    "expected_service_category": "AI Automation",
+    "synthetic": true
+  },
+  {
+    "id": "SYN-002",
+    "text": "Our small business needs a new responsive website with a contact form and an admin panel. We hope to launch in eight weeks. Our budget is around INR 150000.",
+    "expected_service_category": "Custom Software Development",
+    "synthetic": true
+  },
+  {
+    "id": "SYN-003",
+    "text": "We want to migrate our current application to AWS and improve deployment reliability. We use a Python backend and PostgreSQL. We need a proposal next month.",
+    "expected_service_category": "Cloud and DevOps",
+    "synthetic": true
+  },
+  {
+    "id": "SYN-004",
+    "text": "We need help improving SEO, search ranking, and digital marketing analytics for our website.",
+    "expected_service_category": "Digital Marketing",
+    "synthetic": true
+  }
+]
